@@ -1,0 +1,14 @@
+{
+  "LBL_SCHOPING_LISTS": "Listy Zakupów",
+  "LBL_OLD_LISTS": "Stare listy",
+  "LBL_LIST_NAME": "Nazwa listy: ",
+  "LBL_LIST_EMPTY": "Brak list",
+  "LBL_LIST_ITEM_EMPTY": "Dodaj pierwszy przedmiot",
+  "LBL_ENTER_NAME": "Uzupełnij nazwę listy!",
+  "LBL_OK": "OK",
+  "LBL_LIST_ERROR": "Lista powinna zawierać co najmniej jeden przedmiot",
+  "LBL_CREATE_NEW_LIST": "Utwórz nową listę",
+  "LBL_ADD_ITEM": "Dodaj przedmiot",
+  "LBL_ITEM_NAME": "Nazwa przedmiotu",
+  "LBL_LIST_NAME_MODAL": "Nazwa listy"
+}

@@ -1,0 +1,14 @@
+com/score/ReactNativeFlipper.java
+ com.score.ReactNativeFlipper
+ com.score.ReactNativeFlipper$1
+ com.score.ReactNativeFlipper$2
+ com.score.ReactNativeFlipper$2$1
+com/score/BuildConfig.java
+ com.score.BuildConfig
+com/score/MainApplication.java
+ com.score.MainApplication
+ com.score.MainApplication$1
+com/score/MainActivity.java
+ com.score.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
